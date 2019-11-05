@@ -8,3 +8,9 @@ onions
 vegetable broth
 potato
 
+instructions:
+
+1: soak lentils
+2: cut potatoes
+1
+
