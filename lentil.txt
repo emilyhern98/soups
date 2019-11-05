@@ -12,5 +12,6 @@ instructions:
 
 1: soak lentils
 2: cut potatoes
-1
+3: prep veggies
+
 
