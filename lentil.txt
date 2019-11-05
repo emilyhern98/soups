@@ -13,5 +13,7 @@ instructions:
 1: soak lentils
 2: cut potatoes
 3: prep veggies
+4: add ingredients to broth
+5: bring to boil
 
 
